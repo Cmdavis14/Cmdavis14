@@ -11,7 +11,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 
 | Skill                                           | Associated Project           |
 |-------------------------------------------------|------------------------------|
-| SIEM Implementation and Log Analysis	Detection | <a href="https://google.com">Detection Lab</a>
+| SIEM Implementation and Log Analysis	Detection | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 | Network Traffic Monitoring and Attack Detection	| <a href="https://google.com">Detection Lab</a>
 | Security Automation with Shuffle SOAR	SOC       | <a href="https://google.com">Detection Lab</a>
 | Incident Response Planning and Execution	      | <a href="https://google.com">Detection Lab</a>
@@ -35,7 +35,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 <img src="https://img.shields.io/badge/-Security%2B%20701-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
     
-Projects
-- Detection Lab
+## Projects
+- <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 -  Test Project
