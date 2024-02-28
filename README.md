@@ -19,7 +19,6 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 | Scripting and Automation for Threat Mitigation	| <a href="https://google.com">Detection Lab</a>
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
   
@@ -33,7 +32,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 ### Cloud
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<img src="https://img.shields.io/badge/-Security%2B%20701-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
     
 Projects
