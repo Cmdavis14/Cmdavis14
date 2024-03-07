@@ -37,6 +37,6 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
     
 ## Projects
 - <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
-- <a href="https://github.com/Cmdavis14/Key-Logger">Key-Logger Script Lab</a>
+- <a href="https://github.com/Cmdavis14/Key-Logger">Key-Logger Script</a>
 - SOC Automation Project
 -  Test Project
