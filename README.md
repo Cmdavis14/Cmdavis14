@@ -12,7 +12,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 | Skill                                           | Associated Project           |
 |-------------------------------------------------|------------------------------|
 | SIEM Implementation and Log Analysis	Detection | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
-| Network Traffic Monitoring and Attack Detection	| <a href="https://google.com">Detection Lab</a>
+| Python Website Reconnaissance Script            |  <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
 | Security Automation with Shuffle SOAR	SOC       | <a href="https://google.com">Detection Lab</a>
 | Incident Response Planning and Execution	      | <a href="https://google.com">Detection Lab</a>
 | Case Management with TheHive	                  | <a href="https://google.com">Detection Lab</a>
