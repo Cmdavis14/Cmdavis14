@@ -1,5 +1,5 @@
 # Hello, I'm Caleb Davis
-<a href="https://linkedin.com/calebmdavis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/calebmdavis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate from Hardin-Simmons University with a profound interest in technology, security, and a dedication to solving complex problems.
 
