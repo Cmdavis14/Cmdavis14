@@ -21,7 +21,10 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 ## Tools
 
 ### Network
-  
+<div>
+    <img src="https://img.shields.io/badge/-Packet%20Tracer-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
 ### Endpoint
  
 ### SIEM
@@ -39,4 +42,5 @@ My journey in the IT field has led me to develop a passion for cybersecurity, an
 - <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/Cmdavis14/Key-Logger">Key-Logger Script</a>
 - <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
+- <a href="https://github.com/Cmdavis14/Packet-Tracer-Projects">Packet Tracer Networking Projects</a>
 - SOC Automation Project
