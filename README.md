@@ -1,11 +1,11 @@
 # Hello, I'm Caleb Davis
 <a href="https://www.linkedin.com/in/calebmdavis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from Hardin-Simmons University with a profound interest in technology, security, and a dedication to solving complex problems.
+I am a recent graduate of Hardin-Simmons University with a profound interest in technology and security, along with a dedication to solving complex problems.
 
 ## Objective
 
-My journey in the IT field has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in the IT field has fostered a passion for cybersecurity, and I am now eager to transition into this field, seeking opportunities to contribute to and grow within a dynamic security operations environment.
 
 ## Skills
 
