@@ -42,5 +42,5 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 - <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/Cmdavis14/Key-Logger">Key-Logger Script</a>
 - <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
-- <a href="https://github.com/Cmdavis14/Packet-Tracer-Projects">Packet Tracer Networking Projects</a>
+- <a href="https://github.com/Cmdavis14/TryHackMe-Projects">TryHackMe Defensive Security Labs</a>
 - SOC Automation Project
