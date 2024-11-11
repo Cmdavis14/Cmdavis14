@@ -29,9 +29,13 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-FF7300?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS%20Cloud-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+</div>
 
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B%20701-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
