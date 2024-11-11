@@ -14,15 +14,14 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 | SIEM Implementation and Log Analysis	Detection | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 | Automaing Information Gathering and Security Assesment Using Python            |  <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
 | Blue Team Cybersecurity Projects                | <a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Blue Team Security Projects</a>
-| Incident Response Planning and Execution	      | <a href="https://google.com">Detection Lab</a>
-| Case Management with TheHive	                  | <a href="https://google.com">Detection Lab</a>
-| Scripting and Automation for Threat Mitigation	| <a href="https://google.com">Detection Lab</a>
+
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Packet%20Tracer-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -36,6 +35,7 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B%20701-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B%20CS0--003-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
     
 ## Projects
@@ -43,4 +43,4 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 - <a href="https://github.com/Cmdavis14/Key-Logger">Key-Logger Script</a>
 - <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
 - <a href="https://github.com/Cmdavis14/TryHackMe-Projects">TryHackMe Defensive Security Labs</a>
-- SOC Automation Project
+- a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Blue Team Security Projects</a>
