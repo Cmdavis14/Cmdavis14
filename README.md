@@ -47,4 +47,4 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 - <a href="https://github.com/Cmdavis14/Key-Logger">Key-Logger Script</a>
 - <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
 - <a href="https://github.com/Cmdavis14/TryHackMe-Projects">TryHackMe Defensive Security Labs</a>
-- a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Blue Team Security Projects</a>
+- <a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Blue Team Security Projects</a>
