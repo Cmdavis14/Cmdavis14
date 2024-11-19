@@ -40,6 +40,9 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B%20701-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B%20CS0--003-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Blue%20Team%20Level%201%20Cert-1A5D99?&style=for-the-badge&logo=Security&logoColor=white" />
+
+
 
     
 ## Projects
