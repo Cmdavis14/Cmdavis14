@@ -12,9 +12,9 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 | Skill                                           | Associated Project           |
 |-------------------------------------------------|------------------------------|
 | SIEM Implementation and Log Analysis	Detection | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
-| Automaing Information Gathering and Security Assesment Using Python            |  <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
+| Automating Information Gathering and Security Assesment Using Python            |  <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
 | Blue Team Cybersecurity Projects                | <a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Blue Team Security Projects</a>
-| Cybersecurity Powershell Scripts                | <a href="https://github.com/Cmdavis14/InfoSec_PowerShell_Scripts/blob/main/README.md">Cybersec Powershell script</a>
+| Automating with Powershell                | <a href="https://github.com/Cmdavis14/InfoSec_PowerShell_Scripts/blob/main/README.md">Cybersec Powershell script</a>
 
 ## Tools
 
