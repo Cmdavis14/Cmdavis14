@@ -15,7 +15,7 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 | Automating Information Gathering and Security Assesment Using Python            |  <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
 | Blue Team Cybersecurity Projects                | <a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Blue Team Security Projects</a>
 | Automating with Powershell                      | <a href="https://github.com/Cmdavis14/InfoSec_PowerShell_Scripts/blob/main/README.md">Cybersec Powershell script</a>
-| Splunk                                          | <a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Splunk Lab</a>
+| Splunk                                          | <a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/tree/main/Splunk_Labs">Splunk Lab</a> 
 ## Tools
 
 ### Network
