@@ -25,7 +25,11 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 </div>
 
 ### Endpoint
- 
+<img src="https://img.shields.io/badge/-CrowdStrike-00A3E0?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cortex-FF5C00?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+<img src="https://img.shields.io/badge/-AlienVault-FF5B00?&style=for-the-badge&logo=AlienVault&logoColor=white" />
+<img src="https://img.shields.io/badge/-Carbon%20Black-008C9E?&style=for-the-badge&logo=VMware&logoColor=white" />
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
