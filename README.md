@@ -42,6 +42,8 @@ Take a look around and explore the projects that showcase my journey through off
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS%20Cloud-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
 </div>
 
 ## Certifications
