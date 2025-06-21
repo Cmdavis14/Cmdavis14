@@ -25,11 +25,13 @@ Take a look around and explore the projects that showcase my journey through off
 </div>
 
 ### Endpoint
-<img src="https://img.shields.io/badge/-CrowdStrike-00A3E0?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tenable-00C176?&style=for-the-badge&logo=tenable&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cortex-FF5C00?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
-<img src="https://img.shields.io/badge/-AlienVault-FF5B00?&style=for-the-badge&logo=AlienVault&logoColor=white" />
-<img src="https://img.shields.io/badge/-Carbon%20Black-008C9E?&style=for-the-badge&logo=VMware&logoColor=white" />
+<div>
+    <img src="https://img.shields.io/badge/-CrowdStrike-00A3E0?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable-00C176?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex-FF5C00?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AlienVault-FF5B00?&style=for-the-badge&logo=AlienVault&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Carbon%20Black-008C9E?&style=for-the-badge&logo=VMware&logoColor=white" />
+</div>
 
 ### SIEM
 <div>
@@ -43,10 +45,11 @@ Take a look around and explore the projects that showcase my journey through off
 </div>
 
 ## Certifications
-<img src="https://img.shields.io/badge/-Security%2B%20701-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B%20CS0--003-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Blue%20Team%20Level%201%20Cert-1A5D99?&style=for-the-badge&logo=Security&logoColor=white" />
-
+<div>
+    <img src="https://img.shields.io/badge/-Security%2B%20701-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CySA%2B%20CS0--003-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Blue%20Team%20Level%201%20Cert-1A5D99?&style=for-the-badge&logo=Security&logoColor=white" />
+<div>
 
 
     
