@@ -7,7 +7,7 @@ Take a look around and explore the projects that showcase my journey through off
 
 ## Skills
 
-| Skill                                           | Associated Project           |
+| Skills                                           | Associated Project           |
 |-------------------------------------------------|------------------------------|
 | Vulnerability Management                        | <a href="https://github.com/Cmdavis14/vulnerability-management-program">Enterprise Vulnerability Management Program Development
 | Programmatic Vulnerability Remediations (PowerShell and BASH) | <a href="https://github.com/Cmdavis14/programmatic-vulnerability-remediations">Programmatic Vulnerability Remediations</a>
