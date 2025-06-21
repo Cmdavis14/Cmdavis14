@@ -1,16 +1,16 @@
-# Hello, I'm Caleb Davis
+# Caleb Davis's IT and Cybersecurity Project Portfolio 🔐
 <a href="https://www.linkedin.com/in/calebmdavis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate of Hardin-Simmons University with a profound interest in technology and security, along with a dedication to solving complex problems.
-
-## Objective
-
-My journey in the IT field has fostered a passion for cybersecurity, and I am now eager to transition into this field, seeking opportunities to contribute to and grow within a dynamic security operations environment.
+I'm a cybersecurity enthusiast driven by the challenge of solving complex security problems through practical, hands-on experience. My projects span vulnerability management, threat detection, and security automation—each designed to address real-world challenges in today's dynamic threat landscape.
+Every repository here represents hours of research, testing, and refinement as I work to strengthen security operations and build more resilient systems. I believe the best way to understand cybersecurity is by getting your hands dirty with the tools and techniques that matter.
+Take a look around and explore the projects that showcase my journey through offensive security, defensive strategies, and everything in between. Each one tells a story of problem-solving and continuous learning in the field I'm passionate about.
 
 ## Skills
 
 | Skill                                           | Associated Project           |
 |-------------------------------------------------|------------------------------|
+| Vulnerability Management                        | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
+| Programmatic Vulnerability Remediations (PowerShell and BASH) | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 | SIEM Implementation and Log Analysis	Detection | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 | Automating Information Gathering and Security Assesment Using Python            |  <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
 | Blue Team Cybersecurity Projects                | <a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Blue Team Security Projects</a>
@@ -26,6 +26,7 @@ My journey in the IT field has fostered a passion for cybersecurity, and I am no
 
 ### Endpoint
 <img src="https://img.shields.io/badge/-CrowdStrike-00A3E0?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tenable-00C176?&style=for-the-badge&logo=tenable&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cortex-FF5C00?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
 <img src="https://img.shields.io/badge/-AlienVault-FF5B00?&style=for-the-badge&logo=AlienVault&logoColor=white" />
 <img src="https://img.shields.io/badge/-Carbon%20Black-008C9E?&style=for-the-badge&logo=VMware&logoColor=white" />
