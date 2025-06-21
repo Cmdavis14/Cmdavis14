@@ -9,7 +9,7 @@ Take a look around and explore the projects that showcase my journey through off
 
 | Skill                                           | Associated Project           |
 |-------------------------------------------------|------------------------------|
-| Vulnerability Management                        | <a href="https://github.com/Cmdavis14/vulnerability-management-program">Vulnerability Management Program
+| Vulnerability Management                        | <a href="https://github.com/Cmdavis14/vulnerability-management-program">Enterprise Vulnerability Management Program Development
 | Programmatic Vulnerability Remediations (PowerShell and BASH) | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 | SIEM Implementation and Log Analysis	Detection | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 | Automating Information Gathering and Security Assesment Using Python            |  <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
