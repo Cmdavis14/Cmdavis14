@@ -11,7 +11,7 @@ Take a look around and explore the projects that showcase my journey through off
 |-------------------------------------------------|------------------------------|
 | Vulnerability Management                        | <a href="https://github.com/Cmdavis14/vulnerability-management-program">Enterprise Vulnerability Management Program Development
 | Programmatic Vulnerability Remediations (PowerShell and BASH) | <a href="https://github.com/Cmdavis14/programmatic-vulnerability-remediations">Programmatic Vulnerability Remediations</a>
-| Threat Hunting and Security Operations          | <a href="https://github.com/Cmdavis14/BLUETEAM_PROJECTS/blob/main/README.md">Threat Hunting Scenario (Tor Browser Usage)</a>
+| Threat Hunting and Security Operations          | <a href="https://github.com/Cmdavis14/Threat-Hunting-Scenario/blob/main/README.md">Threat Hunting Scenario (Tor Browser Usage)
 | SIEM Implementation and Log Analysis	Detection | <a href="https://github.com/Cmdavis14/Detection-Lab/tree/main">Detection Lab</a>
 | Automating Information Gathering and Security Assesment Using Python|  <a href="https://github.com/Cmdavis14/Python-Recon-Script/tree/main">Python Recon Script</a>
 | Automating with Powershell                      | <a href="https://github.com/Cmdavis14/InfoSec_PowerShell_Scripts/blob/main/README.md">Cybersec Powershell script</a>
